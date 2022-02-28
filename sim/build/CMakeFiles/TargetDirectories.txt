@@ -1,0 +1,4 @@
+/home/sh/sim/build/CMakeFiles/rebuild_cache.dir
+/home/sh/sim/build/CMakeFiles/Simulation.dir
+/home/sh/sim/build/CMakeFiles/edit_cache.dir
+/home/sh/sim/build/CMakeFiles/sim.dir
